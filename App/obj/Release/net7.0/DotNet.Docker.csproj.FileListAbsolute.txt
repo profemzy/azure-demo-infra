@@ -1,0 +1,15 @@
+/Users/profemzy/bgc/terraform/App/bin/Release/net7.0/DotNet.Docker
+/Users/profemzy/bgc/terraform/App/bin/Release/net7.0/DotNet.Docker.deps.json
+/Users/profemzy/bgc/terraform/App/bin/Release/net7.0/DotNet.Docker.runtimeconfig.json
+/Users/profemzy/bgc/terraform/App/bin/Release/net7.0/DotNet.Docker.dll
+/Users/profemzy/bgc/terraform/App/bin/Release/net7.0/DotNet.Docker.pdb
+/Users/profemzy/bgc/terraform/App/obj/Release/net7.0/DotNet.Docker.csproj.AssemblyReference.cache
+/Users/profemzy/bgc/terraform/App/obj/Release/net7.0/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/profemzy/bgc/terraform/App/obj/Release/net7.0/DotNet.Docker.AssemblyInfoInputs.cache
+/Users/profemzy/bgc/terraform/App/obj/Release/net7.0/DotNet.Docker.AssemblyInfo.cs
+/Users/profemzy/bgc/terraform/App/obj/Release/net7.0/DotNet.Docker.csproj.CoreCompileInputs.cache
+/Users/profemzy/bgc/terraform/App/obj/Release/net7.0/DotNet.Docker.dll
+/Users/profemzy/bgc/terraform/App/obj/Release/net7.0/refint/DotNet.Docker.dll
+/Users/profemzy/bgc/terraform/App/obj/Release/net7.0/DotNet.Docker.pdb
+/Users/profemzy/bgc/terraform/App/obj/Release/net7.0/DotNet.Docker.genruntimeconfig.cache
+/Users/profemzy/bgc/terraform/App/obj/Release/net7.0/ref/DotNet.Docker.dll
