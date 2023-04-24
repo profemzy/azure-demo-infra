@@ -21,22 +21,28 @@ variable "environment" {
   description = "This variable defines the Environment"
 }
 
+// Node type information
+variable "node_type" {
+  type        = string
+  description = "The size of each node."
+}
+
 # AKS Input Variables
 
 # SSH Public Key for Linux VMs
-variable "ssh_public_key" {
-  type = string
-  description = "This variable defines the SSH Public Key for Linux k8s Worker nodes"
-}
+#variable "ssh_public_key" {
+#  type = string
+#  description = "This variable defines the SSH Public Key for Linux k8s Worker nodes"
+#}
 
 # Windows Admin Username for k8s worker nodes
-variable "windows_admin_username" {
-  type        = string
-  description = "This variable defines the Windows admin username k8s Worker nodes"
-}
-
-# Windows Admin Password for k8s worker nodes
-variable "windows_admin_password" {
-  type        = string
-  description = "This variable defines the Windows admin password k8s Worker nodes"
-}
+#variable "windows_admin_username" {
+#  type        = string
+#  description = "This variable defines the Windows admin username k8s Worker nodes"
+#}
+#
+## Windows Admin Password for k8s worker nodes
+#variable "windows_admin_password" {
+#  type        = string
+#  description = "This variable defines the Windows admin password k8s Worker nodes"
+#}
